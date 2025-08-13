@@ -1,0 +1,62 @@
+# ------------------------
+# Python
+# ------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ------------------------
+# VS Code
+# ------------------------
+.vscode/
+
+# ------------------------
+# macOS
+# ------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# ------------------------
+# Logs
+# ------------------------
+*.log
+
+# ------------------------
+# Data / Models (optional)
+# ------------------------
+# Uncomment if you don’t want to commit datasets/models
+# data/
+# models/
+# *.pkl
+# *.h5
+# *.pt
